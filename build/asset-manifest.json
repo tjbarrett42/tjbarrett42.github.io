@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tjbarrett42/tjbarrett42.github.io/static/css/main.121c2e71.chunk.css",
+    "main.js": "/tjbarrett42/tjbarrett42.github.io/static/js/main.5537b012.chunk.js",
+    "main.js.map": "/tjbarrett42/tjbarrett42.github.io/static/js/main.5537b012.chunk.js.map",
+    "runtime-main.js": "/tjbarrett42/tjbarrett42.github.io/static/js/runtime-main.78768347.js",
+    "runtime-main.js.map": "/tjbarrett42/tjbarrett42.github.io/static/js/runtime-main.78768347.js.map",
+    "static/css/2.95f25948.chunk.css": "/tjbarrett42/tjbarrett42.github.io/static/css/2.95f25948.chunk.css",
+    "static/js/2.7b937d4f.chunk.js": "/tjbarrett42/tjbarrett42.github.io/static/js/2.7b937d4f.chunk.js",
+    "static/js/2.7b937d4f.chunk.js.map": "/tjbarrett42/tjbarrett42.github.io/static/js/2.7b937d4f.chunk.js.map",
+    "index.html": "/tjbarrett42/tjbarrett42.github.io/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/tjbarrett42/tjbarrett42.github.io/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.121c2e71.chunk.css.map": "/tjbarrett42/tjbarrett42.github.io/static/css/main.121c2e71.chunk.css.map",
+    "static/js/2.7b937d4f.chunk.js.LICENSE.txt": "/tjbarrett42/tjbarrett42.github.io/static/js/2.7b937d4f.chunk.js.LICENSE.txt",
+    "static/media/epidemicsim.39b29825.png": "/tjbarrett42/tjbarrett42.github.io/static/media/epidemicsim.39b29825.png",
+    "static/media/logo.103b5fa1.svg": "/tjbarrett42/tjbarrett42.github.io/static/media/logo.103b5fa1.svg",
+    "static/media/personalsite.67c4b4b5.png": "/tjbarrett42/tjbarrett42.github.io/static/media/personalsite.67c4b4b5.png",
+    "static/media/spotifystats.53c76ed6.png": "/tjbarrett42/tjbarrett42.github.io/static/media/spotifystats.53c76ed6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78768347.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.7b937d4f.chunk.js",
+    "static/css/main.121c2e71.chunk.css",
+    "static/js/main.5537b012.chunk.js"
+  ]
+}
