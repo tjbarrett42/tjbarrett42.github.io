@@ -1,5 +1,5 @@
 {
-  "homepage": "http://github.com/tjbarrett42/tjbarrett42.github.io",
+  "homepage": "http://tjbarrett42.github.io",
   "name": "tjbarrett42.github.io",
   "version": "0.1.0",
   "private": true,
@@ -20,9 +20,9 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "predeplpy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
