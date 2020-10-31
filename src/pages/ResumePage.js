@@ -5,7 +5,7 @@ import Sidekick from "../components/Sidekick";
 function ResumePage(props){
     return(
         <div>
-            <Sidekick title={props.title}></Sidekick>
+            <Sidekick title={props.title} subTitle={props.subTitle}></Sidekick>
             <Resume/>
         </div>
     )
